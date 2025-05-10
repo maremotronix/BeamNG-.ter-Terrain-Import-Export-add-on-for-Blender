@@ -19,6 +19,9 @@ This Blender add-on enables seamless import and export of BeamNG.drive .ter terr
 - Adjust terrain features using Blender’s sculpting and texturing tools.  
 - Export edited terrains back into BeamNG.drive for testing and gameplay.  
 
+## Warning and Recommendation  
+It is highly recommended to create copies/backups of the original working progress files, so they won't get damaged/corrupted.  
+
 ## Contribution  
 This project is open-source and welcomes contributions! Feel free to fork the repository, submit pull requests, or suggest improvements to enhance terrain integration between BeamNG.drive and Blender.  
 
